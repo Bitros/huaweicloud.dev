@@ -1,15 +1,17 @@
 ## Hello Vistor
 
-Gitee is an independent, open-source code hosting platform for China and serve millions of Chinese developers. It becomes the largest Git community in China until now.
+Huawei Technologies is a Chinese multinational technology corporation headquartered in Shenzhen, Guangdong, China. It designs, develops and sells telecommunications equipment, consumer electronics, cloud services and various smart devices. Huawei Cloud primary domain [huaweicloud.com](https://huaweicloud.com).
 
-If you are **interested in domain gitee.dev** and just ping me via [mopspecial@gmail.com](mailto:mopspecial@gmail.com)
+If you are **interested in domain huaweicloud.dev** and just ping me via [mopspecial@gmail.com](mailto:mopspecial@gmail.com).
 
 
 ## 你好，来者
-Gitee（码云）是开源中国于2013年推出的基于Git的代码托管和协作开发平台，提供中国本土化的代码托管服务。目前为止是中国境内规模最大的代码托管平台。
+华为云成立于2005年，隶属于华为公司，专注于云计算中公有云领域的技术研究与生态拓展，致力于为用户提供一站式云计算基础设施服务，提供包括云主机、云托管、云存储等基础云服务、超算、内容分发与加速、视频托管与发布、企业IT、云电脑、云会议、游戏托管、应用托管等服务和解决方案。华为云主站 [huaweicloud.com](https://huaweicloud.com)。
 
-**如果你对gitee.dev域名感兴趣**，直接邮件联系我 [mopspecial@gmail.com](mailto:mopspecial@gmail.com)
+**如果你对 huaweicloud.dev 域名感兴趣**，直接邮件联系我 [mopspecial@gmail.com](mailto:mopspecial@gmail.com)。
 
+### On sale
+- [gitee.dev](https://gitee.dev)
 
 ### For more dev domains you can see 
 ### 其他的dev域名
